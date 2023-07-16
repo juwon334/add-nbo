@@ -20,7 +20,5 @@ int main(int argc,char* argv[]) {
     uint32_t total = number1 + number2;
     
     printf("%u(0x%x) + %u(0x%x) = %u(0x%x)",number1,number1,number2,number2, total,total);
-
-
     return 0;
 }
